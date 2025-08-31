@@ -1,0 +1,57 @@
+.Logo {
+    font-size: 60px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.UnderLogo {
+  font-size: 24px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.Projeto {
+  font-size: 24px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+div {
+  width: 180px;
+  border: 5px solid black;
+  background-color: #afafaf;
+  padding: 15px;
+  margin: 25px;
+}
+
+.MenuLateral {
+  position: relative;
+  left: -15px;
+  width: 180px;
+  border: 5px solid black;
+  background-color: #b0b0e7;
+  padding: 15px;
+  margin: 25px;
+}
+
+.Centro {
+  position: absolute;
+  left: 250px;
+  width: 1550px;
+  height: 600px;
+  border: 5px solid black;
+  background-color: #414141;
+  margin: 25px;
+}
+
+.Cabecalho {
+  margin: auto;
+  width: auto;
+  border: 5px solid black;
+  background-color: #fff3f3;
+  padding: 5px;
+}
+
+body {
+  background-color: #455545;
+}
